@@ -1,0 +1,28 @@
+# IntelliJ 관련
+.idea/
+*.iml
+
+# Build 디렉터리
+/build/
+/out/
+
+# 로그 파일
+*.log
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 환경설정 파일
+*.env
+*.local
+
+# Gradle
+.gradle/
+build/
+
+# 기타
+*.class
+*.jar
+*.war
+*.ear
