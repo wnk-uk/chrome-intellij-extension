@@ -1,9 +1,9 @@
 {
     "manifest_version": 3,
-    "name": "IntelliJ Element Opener",
-    "version": "1.0",
+    "name": "Caidentia Chrome Plugin",
+    "version": "1.0.0",
     "permissions": ["scripting"],
-    "host_permissions": ["http://localhost:8081/*"],
+    "host_permissions": ["http://localhost:9999/*"],
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
